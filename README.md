@@ -1,4 +1,10 @@
-# alura-tracker
+# eddie-tracker
+
+Projeto para conhecimento e exploração da ferramenta Vue3 em um curso da Alura. 
+
+O objetivo da aplicação é realizar o acompanhamento de tarefas diárias que executamos no dia a dia, como, por exemplo, estudar Vue.JS
+
+---
 
 ## Project setup
 ```
